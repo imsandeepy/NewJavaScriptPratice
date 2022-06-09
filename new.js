@@ -242,3 +242,28 @@ if(time < 12){
   alert("good evening");
 } 
       */
+
+
+
+// FUNCTIONS
+/*
+function myfunction(){
+  document.getElementById("try").innerHTML="Coming Soon";
+} 
+ 
+*/
+function a(){
+  alert("login first");
+}
+
+function msg(){
+  alert("login first"); 
+}
+function newfunction(){
+  document.getElementById("add").innerHTML="5+30";
+}
+
+function anyfunction(){
+  prompt("ENTER YOUR MOBILE NUMBER");
+}
+
